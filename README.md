@@ -33,11 +33,11 @@ Any of the above can also be reversed to translate from that language to English
 
 Example commands: 
 
-java Translation en-ko (English to Korean)
+java Translation en-ko
 
-java Translation ar-en (Arabic to English)
+java Translation ar-en
 
-java Translation it-en (Italian)
+java Translation en-es 
 
 4. After execution, press Enter to begin recording a phrase. Press Enter again to stop recording, and translation will begin. Speech will be synthesized and played back after a few moments.
 
