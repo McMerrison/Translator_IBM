@@ -2,7 +2,7 @@
 A vocal translator allowing user to speak a phrase in one language which is then translated into another and spoken aloud using IBM synthesized speech.
 
 # Setup
-1. Pull files into any directory (5 java files: Transcription, Language, Vocalizer, Translator, and API_KEYS). No external dependenices
+1. Pull files into any directory (5 java files: Transcription, Language, Vocalizer, Translator, and API_KEYS). No external dependenices needed.
 2. Compile with 'javac *.java'
 3. Execute command 'java Translator [translation]'
   
