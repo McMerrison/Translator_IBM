@@ -43,7 +43,7 @@ java Translation en-es
 4. After execution, press Enter to begin recording a phrase. Press Enter again to stop recording, and translation will begin. Speech will be synthesized and played back after a few moments.
 
 # Notes
-- It is possible to input any language pair (not listed here) from IBM documentation for translation. However, certain voices are not supported. The program will outut a text translation but speech will lkely be incorrect given in normal English pronunciation.
-- Speech recording time will automatically timeout after 30 seconds.
+- It is possible to input any language pair (not listed here) from IBM documentation for translation. However, certain voices are not supported. The program will outut a text translation but speech playback will likely be incorrect, as it is given in normal English pronunciation.
+- Speech recording time will automatically timeout after 30 seconds if user does not press Enter again.
 - API keys are guest keys with limited requests. *THIS APP IS A DEMO ONLY*
 
