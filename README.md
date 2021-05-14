@@ -3,8 +3,9 @@ A vocal translator allowing user to speak a phrase in one language which is then
 
 # Setup
 1. Pull files into any directory (5 java files: Transcription, Language, Vocalizer, Translator, and API_KEYS). No external dependenices
-2. Compile with 'javac'
-3. Execute 'java Translator [translation]
+2. Compile with 'javac *.java'
+3. Execute command 'java Translator [translation]'
+  
   Possible translations:
   
   English to...
@@ -29,7 +30,7 @@ A vocal translator allowing user to speak a phrase in one language which is then
   
   Japanese 'en-ja'
   
-Any of the above can also be reversed to translate from that language to English (translation from non-English to non-English not yet supported)
+Any of the above can also be reversed (i.e. 'es-en' or 'ko-en' to translate from another to English (translation from non-English to non-English not yet supported)
 
 Example commands: 
 
